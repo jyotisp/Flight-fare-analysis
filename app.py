@@ -340,7 +340,7 @@ def predict():
             Multiple_carriers,
             Multiple_carriers_Premium_economy,
             SpiceJet,
-            Trujet,
+            
             Vistara,
             Vistara_Premium_economy,
             s_Chennai,
